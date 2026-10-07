@@ -82,6 +82,10 @@ To analyze consumer response distributions and purchasing habits, frequency anal
 - **H3 (Supported):** Strong positive correlation between **Awareness** and **Purchase Intention** ($r = 0.775, p < 0.001$).
 - **H4 (Supported):** Strong positive correlation between **Perception** and **Purchase Intention** ($r = 0.741, p < 0.001$).
 
+<p float="left">
+  <img src="Correlation1.PNG" width="48%" />
+  <img src="Correlation2.PNG" width="48%" />
+</p>
 ---
 
 #### B. One-Way ANOVA (Education Level vs. Purchasing Behavior)
