@@ -48,7 +48,15 @@ To ensure data internal consistency and measurement accuracy, reliability tests 
 - **Education:** 57.1% held a College Degree.
 - **Monthly Income:** 42.9% earned between 3,000 and <5,000 L.E.
 
-![Demographic Chart](Histogram1.PNG)
+<p float="left">
+  <img src="Histogram1.PNG" width="48%" />
+  <img src="Histogram2.PNG" width="48%" />
+</p>
+<p float="left">
+  <img src="Histogram3.PNG" width="48%" />
+  <img src="Histogram4.PNG" width="48%" />
+</p>
+
 
 
 ---
