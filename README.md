@@ -48,6 +48,10 @@ To ensure data internal consistency and measurement accuracy, reliability tests 
 - **Education:** 57.1% held a College Degree.
 - **Monthly Income:** 42.9% earned between 3,000 and <5,000 L.E.
 
+
+### 3. Descriptive Statistics & Frequency Analysis
+To analyze consumer response distributions and purchasing habits, frequency analyses and histograms were evaluated across key study variables:
+
 <p float="left">
   <img src="Histogram1.PNG" width="48%" />
   <img src="Histogram2.PNG" width="48%" />
@@ -57,11 +61,9 @@ To ensure data internal consistency and measurement accuracy, reliability tests 
   <img src="Histogram4.PNG" width="48%" />
 </p>
 
-
-
 ---
 
-### 3. Hypothesis Testing (Inferential Statistics)
+### 4. Hypothesis Testing (Inferential Statistics)
 
 #### A. Pearson Correlation Analysis
 - **H1 (Supported):** Strong positive correlation between **Attitude towards Ad** and **Awareness** ($r = 0.791, p < 0.001$).
