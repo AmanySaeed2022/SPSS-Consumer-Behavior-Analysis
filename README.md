@@ -8,7 +8,7 @@ This case study evaluates the impact of promotional advertising on consumer awar
 ---
 
 ##  Business Problem & Objectives
-Cosmetics brands face increasing competition in the Egyptian FMCG market. Marketing managers need to determine whether promotional advertisements effectively build brand awareness and positive consumer perceptions, and how these factors directly drive final purchase intent.
+Cosmetics brands face increasing competition in the Egyptian beauty and personal care market. Marketing managers need to determine whether promotional advertisements effectively build brand awareness and positive consumer perceptions, and how these factors directly drive final purchase intent.
 
 **Key Objectives:**
 - Evaluate scale reliability and measurement validity for consumer attitude, perception, awareness, and purchase intention.
