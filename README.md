@@ -96,6 +96,9 @@ To analyze consumer response distributions and purchasing habits, frequency anal
   - Purchase Channel: $F = 0.139, p = 0.966$
 - **Conclusion:** $p > 0.05$ across all variables, accepting $H_0$. Educational background does not significantly alter retail channel choices or purchasing frequency.
 
+<p float="left">
+  <img src="ANOVA.PNG" width="80%" />
+</p>
 ---
 
 #### C. Chi-Square Test of Independence (Gender vs. Education Level)
