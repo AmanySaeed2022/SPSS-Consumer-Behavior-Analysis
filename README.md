@@ -37,6 +37,17 @@ To ensure data internal consistency and measurement accuracy, reliability tests 
 - **Awareness:** $\alpha = 0.943$ (6 items)
 - **Perception:** $\alpha = 0.902$ (3 items)
 - **Purchase Intention:** $\alpha = 0.833$ (3 items)
+<p float="left">
+  <img src="1.PNG" width="48%" />
+  <img src="Cronbach1.PNG" width="48%" />
+</p>
+<p float="left">
+  <img src="Cronbach2.PNG" width="48%" />
+  <img src="Cronbach3.PNG" width="48%" />
+</p>
+<p float="left">
+  <img src="Cronbach4.PNG" width="48%" />
+</p>
 
 > **Conclusion:** All constructs exceeded the standard benchmark of $0.70$, confirming high internal reliability across survey items.
 
