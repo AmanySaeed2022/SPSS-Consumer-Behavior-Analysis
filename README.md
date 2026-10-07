@@ -1,13 +1,13 @@
 # SPSS-Consumer-Behavior-Analysis
 Quantitative marketing research and consumer behavior analysis using IBM SPSS Statistics.
-# 📊 Consumer Behavior & Marketing Analytics for Natural Beauty Products
+#  Consumer Behavior & Marketing Analytics for Natural Beauty Products
 
-## 📌 Executive Summary
+##  Executive Summary
 This case study evaluates the impact of promotional advertising on consumer awareness, perception, and purchase intention towards natural and healthy cosmetics in Egypt. Using quantitative research methods and **IBM SPSS Statistics**, this project validates survey scales, performs demographic profiling, and executes hypothesis testing (Pearson Correlation, One-Way ANOVA, and Chi-Square) to translate statistical outputs into actionable marketing strategies.
 
 ---
 
-## 🎯 Business Problem & Objectives
+##  Business Problem & Objectives
 Cosmetics brands face increasing competition in the Egyptian FMCG market. Marketing managers need to determine whether promotional advertisements effectively build brand awareness and positive consumer perceptions, and how these factors directly drive final purchase intent.
 
 **Key Objectives:**
@@ -18,7 +18,7 @@ Cosmetics brands face increasing competition in the Egyptian FMCG market. Market
 
 ---
 
-## 🛠️ Data & Methodology
+##  Data & Methodology
 - **Sample Size:** $N = 28$ quantitative survey responses.
 - **Geographic Scope:** Egyptian governorates (Qena, Alexandria, Assiut, Cairo).
 - **Analytical Tool:** IBM SPSS Statistics.
@@ -29,7 +29,7 @@ Cosmetics brands face increasing competition in the Egyptian FMCG market. Market
 
 ---
 
-## 📈 Key Analytical Findings & Statistical Testing
+##  Key Analytical Findings & Statistical Testing
 
 ### 1. Scale Reliability (Cronbach's Alpha)
 To ensure data internal consistency and measurement accuracy, reliability tests were conducted across all constructs:
@@ -105,10 +105,13 @@ To analyze consumer response distributions and purchasing habits, frequency anal
 - Tested the relationship between Gender and Highest Level of Education.
 - **Result:** Pearson Chi-Square $\chi^2 = 13.222, df = 4, p = 0.010$.
 - **Conclusion:** Since $p = 0.010 < 0.05$, $H_0$ is rejected, indicating a statistically significant association between gender and educational attainment in the sample group.
+<p float="left">
+  <img src="Chisquare.PNG" width="80%" />
+</p>
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 1. **Target Customer Persona:** Allocate **75% of promotional budgets** toward female consumers aged 18–30.
 2. **Ad Content Strategy:** Prioritize informational and emotional ad creatives highlighting health benefits and natural ingredients; advertising is the primary driver of awareness ($r = 0.791$) and perception ($r = 0.783$).
 3. **Omnichannel Retail:** Maintain unified distribution across pharmacies and digital storefronts, as retail channel preferences do not vary significantly by education level.
