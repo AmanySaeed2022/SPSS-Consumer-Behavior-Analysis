@@ -48,6 +48,9 @@ To ensure data internal consistency and measurement accuracy, reliability tests 
 - **Education:** 57.1% held a College Degree.
 - **Monthly Income:** 42.9% earned between 3,000 and <5,000 L.E.
 
+![Demographic Chart](Histogram1.PNG)
+
+
 ---
 
 ### 3. Hypothesis Testing (Inferential Statistics)
